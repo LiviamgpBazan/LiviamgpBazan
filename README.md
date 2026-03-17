@@ -9,9 +9,7 @@
 ## 💜 Sobre mim
 
 🌸 Sou estudante de Tecnologia da Informação  
-📚 Atualmente aprendendo desenvolvimento e programação  
-🐶 Amo cachorros  
-🙏 Guiada pela fé  
+📚 Atualmente aprendendo desenvolvimento e programação   
 ✨ Buscando crescer e evoluir todos os dias  
 
 ---
